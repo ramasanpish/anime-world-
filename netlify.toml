@@ -1,0 +1,3 @@
+[build]
+  command = "npm run build"   # Adjust if your build command is different
+  publish = "build"         
